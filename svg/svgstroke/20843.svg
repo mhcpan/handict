@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+ "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- generate by Japanese dictionary app com.asnsami.kanjidictionary -->
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" version="1.1" width="640" height="128" viewBox="0 0 5120 1024">
+	<g id="id0:id0" transform="translate(0.0,0)">
+		<g id="id0:id0:id0" transform="matrix(1.0,0,0,1.0,0,0.0)">			<g stroke="lightgray" stroke-width="4" transform="scale(4, 4)"> <rect x="0" y="0" width="256" height="256" fill="white" stroke-width="4"/></g>
+			<g transform="scale(0.92, -0.92) translate(60, -920)">					<path d="M 317 465 Q 318 338 155 190 Q 136 178 79 126 Q 67 110 85 113 Q 110 114 146 137 Q 258 209 325 305 Q 368 363 406 409 Q 419 422 404 441 Q 355 486 329 484 Q 316 483 317 465 Z" fill="red"></path>
+				<path d="M 446 687 Q 507 636 530 577 Q 608 343 711 190 Q 732 163 846 151 Q 892 147 958 141 Q 983 140 984 146 Q 984 152 963 163 Q 756 269 675 396 Q 621 480 551 644 Q 530 690 483 702 Q 449 709 445 702 Q 438 692 446 687 Z" fill="lightgray"></path>
+</g>
+		<text x="40" y="140" font-size="128" fill="#999999">1</text></g>
+		<g id="id0:id1:id1" transform="matrix(1.0,0,0,1.0,1024,0.0)">			<g stroke="lightgray" stroke-width="4" transform="scale(4, 4)"> <rect x="0" y="0" width="256" height="256" fill="white" stroke-width="4"/></g>
+			<g transform="scale(0.92, -0.92) translate(60, -920)">					<path d="M 317 465 Q 318 338 155 190 Q 136 178 79 126 Q 67 110 85 113 Q 110 114 146 137 Q 258 209 325 305 Q 368 363 406 409 Q 419 422 404 441 Q 355 486 329 484 Q 316 483 317 465 Z" fill="black"></path>
+				<path d="M 446 687 Q 507 636 530 577 Q 608 343 711 190 Q 732 163 846 151 Q 892 147 958 141 Q 983 140 984 146 Q 984 152 963 163 Q 756 269 675 396 Q 621 480 551 644 Q 530 690 483 702 Q 449 709 445 702 Q 438 692 446 687 Z" fill="red"></path>
+</g>
+		<text x="40" y="140" font-size="128" fill="#999999">2</text></g>
+		<g id="id0:id2:id2" transform="matrix(1.0,0,0,1.0,2048,0.0)">			<g stroke="white" stroke-width="4" transform="scale(4, 4)"> <rect x="1" y="1" width="255" height="255" fill="white" stroke-width="0"/></g>
+</g>
+		<g id="id0:id3:id3" transform="matrix(1.0,0,0,1.0,3072,0.0)">			<g stroke="white" stroke-width="4" transform="scale(4, 4)"> <rect x="1" y="1" width="255" height="255" fill="white" stroke-width="0"/></g>
+</g>
+		<g id="id0:id4:id4" transform="matrix(1.0,0,0,1.0,4096,0.0)">			<g stroke="white" stroke-width="4" transform="scale(4, 4)"> <rect x="1" y="1" width="255" height="255" fill="white" stroke-width="0"/></g>
+</g>
+</g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+ "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- generate by Japanese dictionary app com.asnsami.kanjidictionary -->
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" version="1.1" width="640" height="128" viewBox="0 0 5120 1024">
+	<g id="id0:id0" transform="translate(0.0,0)">
+		<g id="id0:id0:id0" transform="matrix(1.0,0,0,1.0,0,0.0)">			<g stroke="lightgray" stroke-width="4" transform="scale(4, 4)"> <rect x="0" y="0" width="256" height="256" fill="white" stroke-width="4"/></g>
+			<g transform="scale(0.92, -0.92) translate(60, -920)">					<path d="M 433 375 Q 649 436 864 443 Q 889 443 895 453 Q 901 469 887 480 Q 812 531 750 510 Q 698 494 450 429 Q 441 428 434 424 L 387 414 Q 314 398 270 386 Q 204 367 103 353 Q 88 352 88 339 Q 89 326 111 313 Q 130 303 166 293 Q 179 290 196 301 Q 253 328 386 363 L 433 375 Z" fill="red"></path>
+				<path d="M 386 363 Q 386 159 409 117 Q 445 69 575 64 Q 719 58 792 93 Q 805 102 804 113 Q 800 132 779 142 Q 749 157 729 154 Q 716 154 707 147 Q 680 125 543 118 Q 473 118 450 150 Q 426 189 433 375 L 434 424 Q 437 644 465 686 Q 481 714 452 734 Q 416 759 394 765 Q 363 772 354 758 Q 347 748 357 739 Q 391 705 388 630 Q 391 551 387 414 L 386 363 Z" fill="lightgray"></path>
+</g>
+		<text x="40" y="140" font-size="128" fill="#999999">1</text></g>
+		<g id="id0:id1:id1" transform="matrix(1.0,0,0,1.0,1024,0.0)">			<g stroke="lightgray" stroke-width="4" transform="scale(4, 4)"> <rect x="0" y="0" width="256" height="256" fill="white" stroke-width="4"/></g>
+			<g transform="scale(0.92, -0.92) translate(60, -920)">					<path d="M 433 375 Q 649 436 864 443 Q 889 443 895 453 Q 901 469 887 480 Q 812 531 750 510 Q 698 494 450 429 Q 441 428 434 424 L 387 414 Q 314 398 270 386 Q 204 367 103 353 Q 88 352 88 339 Q 89 326 111 313 Q 130 303 166 293 Q 179 290 196 301 Q 253 328 386 363 L 433 375 Z" fill="black"></path>
+				<path d="M 386 363 Q 386 159 409 117 Q 445 69 575 64 Q 719 58 792 93 Q 805 102 804 113 Q 800 132 779 142 Q 749 157 729 154 Q 716 154 707 147 Q 680 125 543 118 Q 473 118 450 150 Q 426 189 433 375 L 434 424 Q 437 644 465 686 Q 481 714 452 734 Q 416 759 394 765 Q 363 772 354 758 Q 347 748 357 739 Q 391 705 388 630 Q 391 551 387 414 L 386 363 Z" fill="red"></path>
+</g>
+		<text x="40" y="140" font-size="128" fill="#999999">2</text></g>
+		<g id="id0:id2:id2" transform="matrix(1.0,0,0,1.0,2048,0.0)">			<g stroke="white" stroke-width="4" transform="scale(4, 4)"> <rect x="1" y="1" width="255" height="255" fill="white" stroke-width="0"/></g>
+</g>
+		<g id="id0:id3:id3" transform="matrix(1.0,0,0,1.0,3072,0.0)">			<g stroke="white" stroke-width="4" transform="scale(4, 4)"> <rect x="1" y="1" width="255" height="255" fill="white" stroke-width="0"/></g>
+</g>
+		<g id="id0:id4:id4" transform="matrix(1.0,0,0,1.0,4096,0.0)">			<g stroke="white" stroke-width="4" transform="scale(4, 4)"> <rect x="1" y="1" width="255" height="255" fill="white" stroke-width="0"/></g>
+</g>
+</g>
+</svg>
